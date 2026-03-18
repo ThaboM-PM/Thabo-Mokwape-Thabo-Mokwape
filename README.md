@@ -147,5 +147,3 @@ I'm always open to discussing project management, engineering solutions, technol
 ---
 
 > *"Translating complex business objectives into actionable technical solutions."*
-This GitHub profile README includes:
-✅ Professiona
